@@ -2,6 +2,13 @@
 
 Repositório destinado a um trabalho da faculdade de banco de dados de uma biblioteca.
 
+## Integrantes do projeto
+
+- Gustavo Santana
+- Mariana Catalani
+- Artur Gasparini
+- Kaliel
+
 ## Requisitos funcionais
 
 | ID | Descrição |
